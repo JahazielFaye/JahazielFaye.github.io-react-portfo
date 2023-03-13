@@ -37,8 +37,10 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  className="bg-gradient-to-r from-cyan-500 text- to-yellow-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="#"
+                  className="bg-gradient-to-r from-cyan-500 to-yellow-500 text-white px-4 py-2 border-none rounded-md ml-8"
+                  href="https://www.canva.com/design/DAFdHkQBw5Q/ZAoKPnzcvPfN2ahLXaqwKg/view?utm_content=DAFdHkQBw5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Resume
                 </a>
@@ -90,7 +92,7 @@ export default function Home() {
               constantly learning and pushing myself to improve my skills and
               deliver exceptional work
             </p>
-            
+
             <h3 className="text-3xl py-1 dark:text-white ">Services</h3>
           </div>
           <div className="lg:flex gap-10">
@@ -228,7 +230,9 @@ export default function Home() {
                       alt="Web1"
                     />
                     <div className="p-2 bg-gray-100 text-center">
-                      <h3 className="font-burtons text-xl">PWA Text Processor</h3>
+                      <h3 className="font-burtons text-xl">
+                        PWA Text Processor
+                      </h3>
                     </div>
                   </a>
                 </Link>
