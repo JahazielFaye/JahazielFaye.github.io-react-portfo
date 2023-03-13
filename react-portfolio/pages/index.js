@@ -55,11 +55,11 @@ export default function Home() {
               Full-Stack Developer and Designer.
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              An aspiring Full-stack developer with a passion for UI, I'm
+              An aspiring Full-stack developer with a passion for UI, I&rsquo;m
               excited to focus on creating visually appealing and user-friendly
               web applications. I enjoy designing and implementing user
               interfaces using front-end technologies such as HTML, CSS, and
-              JavaScript. I'm also looking forward to gaining experience with
+              JavaScript. I&rsquo;m also looking forward to gaining experience with
               front-end frameworks like React, Angular, or Vue.js.{" "}
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
@@ -71,7 +71,7 @@ export default function Home() {
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-yellow-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={faye} layout="fill" objectFit="cover" />
+              <Image src={faye} layout="fill" objectFit="cover" alt="my pic" />
             </div>
           </div>
         </section>
@@ -87,17 +87,16 @@ export default function Home() {
               background in both design and development, I bring a unique
               perspective to every project and thrive in collaborative
               environments where I can work closely with cross-functional teams
-              to bring ideas to life. Whether I'm designing a sleek interface,
-              writing clean code, or troubleshooting a technical issue, I'm
+              to bring ideas to life. Whether I&rsquo;m designing a sleek interface,
+              writing clean code, or troubleshooting a technical issue, I&rsquo;m
               constantly learning and pushing myself to improve my skills and
               deliver exceptional work
             </p>
-
             <h3 className="text-3xl py-1 dark:text-white ">Services</h3>
           </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
-              <Image src={design} width={100} height={100} />
+              <Image src={design} width={100} height={100} alt="3d gallery icon"/>
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                 Beautiful Designs
               </h3>
@@ -112,7 +111,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Indesign</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image src={code} width={100} height={100} />
+              <Image src={code} width={100} height={100} alt="3d number sign" />
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Code your dream project
               </h3>
@@ -151,7 +150,7 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={web1}
-                      alt="Web1"
+                      alt="park finder website"
                     />
                     <div className="p-2 bg-gray-100 text-center">
                       <h3 className="font-burtons text-xl">Park Finder</h3>
@@ -170,7 +169,7 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={web2}
-                      alt="Web1"
+                      alt="figma prototype"
                     />
                     <div className="p-2 bg-gray-100 text-center">
                       <h3 className="font-burtons text-xl">Figma Prototype</h3>
@@ -189,7 +188,7 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={web3}
-                      alt="Web1"
+                      alt="Tech Hub"
                     />
                     <div className="p-2 bg-gray-100 text-center">
                       <h3 className="font-burtons text-xl">Tech Hub</h3>
@@ -208,7 +207,7 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={web4}
-                      alt="Web1"
+                      alt="Weather Board website"
                     />
                     <div className="p-2 bg-gray-100 text-center">
                       <h3 className="font-burtons text-xl">Weather Board</h3>
@@ -227,7 +226,7 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={web5}
-                      alt="Web1"
+                      alt="PWA text proccessor github"
                     />
                     <div className="p-2 bg-gray-100 text-center">
                       <h3 className="font-burtons text-xl">
@@ -248,10 +247,10 @@ export default function Home() {
                       height={"100%"}
                       layout="responsive"
                       src={grow}
-                      alt="Web1"
+                      alt="Photo of a plant"
                     />
                     <div className="p-2 bg-gray-100 text-center">
-                      <h3 className="font-burtons text-xl">Weather Board</h3>
+                      <h3 className="font-burtons text-xl">ReadME Generator</h3>
                     </div>
                   </a>
                 </Link>
