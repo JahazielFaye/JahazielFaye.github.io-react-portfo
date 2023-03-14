@@ -1,5 +1,32 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# My React Portfolio
+Welcome to my portfolio! This is a React app that showcases my projects and skills as a developer.
+
+
+The app should now be running on `http://localhost:3000`. 🎉
+
+## Features and Functionality 💻
+
+- Showcase of my projects and skills
+- Contact form to get in touch with me
+- Dark mode toggle 🌙
+
+## Technologies Used 🛠️
+
+- React
+- Next.js
+- Tailwind CSS
+
+## Deployment 🚀
+
+The app is deployed using Vercel. You can check out the live site at [your-portfolio.vercel.app](https://your-portfolio.vercel.app/). 🌐
+
+## Contact Me 📩
+
+Feel free to get in touch with me through the contact form on my portfolio, or by emailing me at `hazelponsaran@gmail.com`. I'd love to hear from you! 😊
+
+
 ## Getting Started
 
 First, run the development server:
