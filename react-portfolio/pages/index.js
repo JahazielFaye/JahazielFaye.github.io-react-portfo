@@ -88,7 +88,7 @@ export default function Home() {
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Beginning my journey as a{" "}
               <span className="text-teal-500">Full-Stack designer</span> and
-              <span className="text-yellow-500"> Developer,</span> I'm excited and
+              <span className="text-yellow-500"> Developer,</span> I&rsquo;m excited and
               passionate about creating meaningful and engaging digital
               experiences that will delight users and drive business results. With a
               background in both < span className="text-purple-500">Design</span> and <span className="text-indigo-500">Development,</span> I bring a unique
