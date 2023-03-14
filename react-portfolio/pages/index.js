@@ -1,5 +1,5 @@
-import { FaCloud } from 'react-icons/fa';
 import Head from "next/head";
+import { FaCloud } from 'react-icons/fa';
 import { AiFillLinkedin, AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
