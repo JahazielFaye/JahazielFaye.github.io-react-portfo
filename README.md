@@ -20,7 +20,7 @@ The app should now be running on `http://localhost:3000`. 🎉
 
 ## Deployment 🚀
 
-The app is deployed using Vercel. You can check out the live site at [your-portfolio.vercel.app](https://your-portfolio.vercel.app/). 🌐
+The app is deployed using Vercel. You can check out the live site at [your-portfolio.vercel.app](https://your-portfolio.vercel.app/). 🌐.
 
 ## Contact Me 📩
 
